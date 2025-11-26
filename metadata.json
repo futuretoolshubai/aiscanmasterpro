@@ -1,0 +1,8 @@
+{
+  "name": "AI ScanMaster PRO",
+  "description": "The Ultimate Document Scanner, OCR, PDF Tools & Cloud Platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
